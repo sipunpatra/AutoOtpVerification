@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959449904904",
+    "project_id": "autootopverification",
+    "storage_bucket": "autootopverification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959449904904:android:5201aa4c3f7adc5985debd",
+        "android_client_info": {
+          "package_name": "com.sipun.autootopverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959449904904-dehgmtsaf0gmd93vskpbqlidoesolkf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUPNkRldlsijYD7-36pO_kiWedXPzr1vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959449904904-dehgmtsaf0gmd93vskpbqlidoesolkf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
